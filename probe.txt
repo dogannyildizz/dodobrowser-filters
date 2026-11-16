@@ -1,0 +1,2 @@
+DODOBROWSER-HTTPS-PROBE-1
+Synthetic public test data. No production trust or filter payload.
