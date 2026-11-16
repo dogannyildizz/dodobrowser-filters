@@ -1,8 +1,8 @@
 EasyList / EasyPrivacy — DodoBrowser distribution candidate
 
 The EasyList authors — https://easylist.to/
-easylist: version 202611161358; commit 35518e859fe019c9bf27cd1bb465ace92dd9549f; original https://easylist.to/easylist/easylist.txt
-easyprivacy: version 202611161401; commit 93bb231bfb30a88f77d2fca8226dad350777bd0e; original https://easylist.to/easylist/easyprivacy.txt
+easylist: version 202611161648; commit 7e6eb86d7b003438225bfce07ddb18caeae5db10; original https://easylist.to/easylist/easylist.txt
+easyprivacy: version 202611161648; commit 7e6eb86d7b003438225bfce07ddb18caeae5db10; original https://easylist.to/easylist/easyprivacy.txt
 
 Original and derived filter data: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
 https://creativecommons.org/licenses/by-sa/3.0/
