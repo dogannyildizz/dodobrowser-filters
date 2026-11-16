@@ -1,0 +1,12 @@
+EasyList / EasyPrivacy — DodoBrowser distribution candidate
+
+The EasyList authors — https://easylist.to/
+easylist: version 202611161648; commit 7e6eb86d7b003438225bfce07ddb18caeae5db10; original https://easylist.to/easylist/easylist.txt
+easyprivacy: version 202611161648; commit 7e6eb86d7b003438225bfce07ddb18caeae5db10; original https://easylist.to/easylist/easyprivacy.txt
+
+Original and derived filter data: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+https://creativecommons.org/licenses/by-sa/3.0/
+Full licence: CC-BY-SA-3.0.txt
+Upstream licence declaration: https://easylist.to/pages/licence.html
+
+DodoBrowser changes, 16 November 2026: unsupported complete rules omitted using dodo-abp-v1; accepted rules and original notices retained; LF line endings and attribution/change header added to derived files. No scriptlet or executable update is supplied. Per-source exclusions and counts are in the reports. These filter data files retain CC BY-SA 3.0 rights; DodoBrowser proprietary application code does not restrict those rights. No endorsement by the EasyList authors is implied. The upstream and Creative Commons warranty disclaimers apply; complete advertisement blocking is not guaranteed.

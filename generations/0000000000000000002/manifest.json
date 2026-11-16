@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "generation": 2,
+  "keyId": "dodo-filter-d227e17a93784c6b8984407254fa0351",
+  "setId": "dodo-easylist-202611161648-easyprivacy-202611161648-v2",
+  "issuedAt": "2026-11-16T17:10:53Z",
+  "expiresAt": "2026-11-23T17:12:53Z",
+  "engineVersion": "0.13.5",
+  "supportProfile": "dodo-abp-v1",
+  "payloadSha256": "5789454713C2D0F06B007F957DAB5FC4C1B825A428804D5F6E8A68DE0AE494D3",
+  "envelopeSha256": "CED5DD085785F3D1507F87FEA1A9BA0AAB4FAB1623746D12A4732EF6194AFCF3",
+  "publicFingerprint": "5737E25F57378FDD399FEA269EE081C074FB400BC8B7AA68202467CAB1DD0269",
+  "filterLicence": "CC-BY-SA-3.0",
+  "files": [
+    {
+      "path": "catalog.json",
+      "bytes": 2308,
+      "sha256": "CED5DD085785F3D1507F87FEA1A9BA0AAB4FAB1623746D12A4732EF6194AFCF3",
+      "gitBlobSha": "a162b7983d938fdb6bd554555e55e2263d4892dc",
+      "mode": "100644"
+    },
+    {
+      "path": "payload.json",
+      "bytes": 1596,
+      "sha256": "5789454713C2D0F06B007F957DAB5FC4C1B825A428804D5F6E8A68DE0AE494D3",
+      "gitBlobSha": "05ac8fb39d2944bdb89a95bfc00cf4d59201b89b",
+      "mode": "100644"
+    },
+    {
+      "path": "public-key.der",
+      "bytes": 91,
+      "sha256": "5737E25F57378FDD399FEA269EE081C074FB400BC8B7AA68202467CAB1DD0269",
+      "gitBlobSha": "8042d4ebb281c65fbfd8abcd3bc8375c680158bd",
+      "mode": "100644"
+    },
+    {
+      "path": "policy.tsv",
+      "bytes": 384,
+      "sha256": "44E4A1D60215229FEF366538240C412FC8C6BAE76FC5C3DDD874B70AEA4E7DA0",
+      "gitBlobSha": "2cb9958f08e7c33e65011cec0c184276d3a10baf",
+      "mode": "100644"
+    },
+    {
+      "path": "easylist.original.txt",
+      "bytes": 2035081,
+      "sha256": "5F93CF143645331E816297A4F4093B11796FC7A0C1CDD81A6E1FEF5A9365E463",
+      "gitBlobSha": "0450a5ad17f289dd2c519a94a18f58a53cc4d350",
+      "mode": "100644"
+    },
+    {
+      "path": "easylist.derived.txt",
+      "bytes": 1951453,
+      "sha256": "96C477714BE1E5332A5797A2D8A9515BD618F838C96BF8BBE152B7EAF3169225",
+      "gitBlobSha": "eb6bcdbf947d062739894a0907df407bbd5b4698",
+      "mode": "100644"
+    },
+    {
+      "path": "easylist.report.json",
+      "bytes": 1684,
+      "sha256": "D484C47BA111E8B5B03EDBE1FF428B8EB49296DB20481B608C9908020E7CF246",
+      "gitBlobSha": "81acc6edb5d5b099624970b398d3ffc9125dee79",
+      "mode": "100644"
+    },
+    {
+      "path": "easyprivacy.original.txt",
+      "bytes": 1517667,
+      "sha256": "82457D9505DDA986B44CC105185DA163D3DC4AB39F55943AFD3E65634E915747",
+      "gitBlobSha": "67460b93cff94a819696d19eba9fc7d73499a707",
+      "mode": "100644"
+    },
+    {
+      "path": "easyprivacy.derived.txt",
+      "bytes": 1507290,
+      "sha256": "747528CA1D9DD709F223E4F96358D2DE3FF7D03D96FB13D05C729B842DE49957",
+      "gitBlobSha": "506321f5bbbde0d619ed2780e2a992f59cf8a98c",
+      "mode": "100644"
+    },
+    {
+      "path": "easyprivacy.report.json",
+      "bytes": 1684,
+      "sha256": "D484C47BA111E8B5B03EDBE1FF428B8EB49296DB20481B608C9908020E7CF246",
+      "gitBlobSha": "81acc6edb5d5b099624970b398d3ffc9125dee79",
+      "mode": "100644"
+    },
+    {
+      "path": "CC-BY-SA-3.0.txt",
+      "bytes": 22240,
+      "sha256": "3F941B3B89CF7B8370CEB83CC76D2120D471B58735D8CA60238A751A48D7F72F",
+      "gitBlobSha": "604209a804632b6e5274005a22293976d07c3099",
+      "mode": "100644"
+    },
+    {
+      "path": "NOTICE.txt",
+      "bytes": 1230,
+      "sha256": "C6906656721C5B02B090B89B3F9F7DD05E266EBC01F3361E7DDF3A79F2862877",
+      "gitBlobSha": "86a29822bf094e6d6c12596aa2624ebbdabbdaf4",
+      "mode": "100644"
+    }
+  ]
+}
